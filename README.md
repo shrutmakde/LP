@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @shrutmakde
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C & C++
 - 📫 How to reach me 
      ig: https://www.instagram.com/shrut_makde/
      twitter: https://twitter.com/shrut_makde
